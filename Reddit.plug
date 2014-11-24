@@ -1,0 +1,6 @@
+[Core]
+Name = Reddit
+Module = Reddit
+
+[Documentation]
+Description = Reddit Commands

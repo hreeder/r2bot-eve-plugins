@@ -1,0 +1,6 @@
+[Core]
+Name = Fun
+Module = Fun
+
+[Documentation]
+Description = Fun Features for the bot

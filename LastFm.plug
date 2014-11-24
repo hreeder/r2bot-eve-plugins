@@ -1,0 +1,6 @@
+[Core]
+Name = LastFm
+Module = LastFm
+
+[Documentation]
+Description = LastFm Features for the bot

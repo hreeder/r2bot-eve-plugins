@@ -1,0 +1,6 @@
+[Core]
+Name = MarketTools
+Module = MarketTools
+
+[Documentation]
+Description = Eve Market related tools and commands

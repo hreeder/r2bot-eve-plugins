@@ -1,0 +1,6 @@
+[Core]
+Name = Time
+Module = Time
+
+[Documentation]
+Description = A set of time tools for eve players!
